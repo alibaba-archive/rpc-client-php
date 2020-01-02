@@ -14,3 +14,5 @@ Detailed changes for each release are documented in the [release notes](CHANGELO
 
 ## License
 [Apache-2.0](LICENSE.md)
+
+Copyright (c) 2009-present, Alibaba Cloud All rights reserved.
