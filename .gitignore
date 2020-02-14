@@ -5,3 +5,4 @@ vendor
 .php_cs.cache
 .env
 cache
+/.phpunit.result.cache

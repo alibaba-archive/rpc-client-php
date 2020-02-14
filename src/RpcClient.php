@@ -3,10 +3,10 @@
 namespace AlibabaCloud\RpcClient;
 
 use Exception;
-use Httpx\Tea\Request;
-use Httpx\Tea\Response;
+use AlibabaCloud\Tea\Request;
+use AlibabaCloud\Tea\Response;
 use InvalidArgumentException;
-use Httpx\Tea\Exception\TeaError;
+use AlibabaCloud\Tea\Exception\TeaError;
 use AlibabaCloud\Client\AlibabaCloud;
 use AlibabaCloud\Client\Support\Sign;
 use AlibabaCloud\Client\Clients\Client;
