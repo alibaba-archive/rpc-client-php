@@ -25,7 +25,7 @@
         "php": ">=5.5",
         "ext-curl": "*",
         "ext-json": "*",
-        "httpx/tea": "^2.0",
+        "alibabacloud/tea": "^3.0",
         "ext-libxml": "*",
         "ext-mbstring": "*",
         "ext-openssl": "*",
